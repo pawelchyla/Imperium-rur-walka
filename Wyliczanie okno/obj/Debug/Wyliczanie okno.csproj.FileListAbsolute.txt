@@ -1,0 +1,21 @@
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.csproj.AssemblyReference.cache
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie_okno.Form1.resources
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie_okno.Properties.Resources.resources
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.csproj.GenerateResource.cache
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.csproj.CoreCompileInputs.cache
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\bin\Debug\Wyliczanie okno.exe.config
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\bin\Debug\Wyliczanie okno.exe
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\bin\Debug\Wyliczanie okno.pdb
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.exe
+C:\Users\krucz\Documents\Prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.pdb
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\bin\Debug\Wyliczanie okno.exe.config
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\bin\Debug\Wyliczanie okno.exe
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\bin\Debug\Wyliczanie okno.pdb
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.csproj.AssemblyReference.cache
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.csproj.SuggestedBindingRedirects.cache
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie_okno.Form1.resources
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie_okno.Properties.Resources.resources
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.csproj.GenerateResource.cache
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.csproj.CoreCompileInputs.cache
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.exe
+C:\Users\krucz\OneDrive\Dokumenty\prywatne\Imperium Rur\Programy\Wyliczanie Visual\Wyliczanie okno\Wyliczanie okno\Wyliczanie okno\obj\Debug\Wyliczanie okno.pdb
